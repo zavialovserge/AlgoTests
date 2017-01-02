@@ -1,0 +1,6 @@
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\bin\Debug\Test48Algo.exe.config
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\bin\Debug\Test48Algo.exe
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\bin\Debug\Test48Algo.pdb
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\obj\Debug\Test48Algo.csprojResolveAssemblyReference.cache
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\obj\Debug\Test48Algo.exe
+c:\users\zavia\documents\visual studio 2015\Projects\Test48Algo\Test48Algo\obj\Debug\Test48Algo.pdb
