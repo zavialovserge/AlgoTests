@@ -1,0 +1,5 @@
+c:\users\zavia\documents\visual studio 2015\Projects\SpiralMatrixForAlgorithmsCources\SpiralMatrixForAlgorithmsCources\bin\Debug\SpiralMatrixForAlgorithmsCources.exe.config
+c:\users\zavia\documents\visual studio 2015\Projects\SpiralMatrixForAlgorithmsCources\SpiralMatrixForAlgorithmsCources\bin\Debug\SpiralMatrixForAlgorithmsCources.exe
+c:\users\zavia\documents\visual studio 2015\Projects\SpiralMatrixForAlgorithmsCources\SpiralMatrixForAlgorithmsCources\bin\Debug\SpiralMatrixForAlgorithmsCources.pdb
+c:\users\zavia\documents\visual studio 2015\Projects\SpiralMatrixForAlgorithmsCources\SpiralMatrixForAlgorithmsCources\obj\Debug\SpiralMatrixForAlgorithmsCources.exe
+c:\users\zavia\documents\visual studio 2015\Projects\SpiralMatrixForAlgorithmsCources\SpiralMatrixForAlgorithmsCources\obj\Debug\SpiralMatrixForAlgorithmsCources.pdb
